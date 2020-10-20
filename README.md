@@ -1,3 +1,6 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rholak/lumtest)
+[![Build Status](https://travis-ci.com/rholak/lumtest.svg?branch=master)](https://travis-ci.com/rholak/lumtest)
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)

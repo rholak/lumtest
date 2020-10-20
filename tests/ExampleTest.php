@@ -15,7 +15,7 @@ class ExampleTest extends TestCase
         $this->get('/');
 
         $this->assertEquals(
-            $this->app->version(), $this->response->getContent()
+            '{"cats":"meow","dogs":"woof","cows":"fart"}', $this->response->getContent()
         );
     }
 }

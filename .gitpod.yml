@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: composer install && npm install && npm run dev
+    command: php -S localhost:3000 -t public
